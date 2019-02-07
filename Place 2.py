@@ -67,4 +67,4 @@ elif k > 1:
 else:
   #print('Дурачок?')
   with open('output.txt', "w") as out:
-    out.write('Дурачок?')
+    out.write('Error 404')
